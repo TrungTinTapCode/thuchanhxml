@@ -4,3 +4,6 @@
 [2025-10-07 14:54:22] Cập nhật danh mục: c1 - Electronics
 [2025-10-07 14:54:22] Cập nhật danh mục: c2 - Smartphone
 [2025-10-07 14:54:22] Cập nhật danh mục: c3 - Accessories
+[2025-10-07 15:07:15] Cập nhật danh mục: c1 - Electronics
+[2025-10-07 15:07:15] Cập nhật danh mục: c2 - Smartphone
+[2025-10-07 15:07:15] Cập nhật danh mục: c3 - Accessories
