@@ -1,0 +1,10 @@
+{
+    "hoTen": "Nguyen Trung Tin",
+    "tuoi": 21,
+    "gioiTinh": "Nam",
+    "diemTrungBinh": 9.0,
+    "diaChi": {
+    "thanhPho": "Can Tho",
+    "quocGia": "Viet Nam"
+    }
+}

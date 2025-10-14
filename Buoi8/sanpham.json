@@ -1,0 +1,20 @@
+[
+    {
+        "tenSanPham": "Serum B5",
+        "gia": 120000,
+        "soLuongTon": 30,
+        "danhMuc": "Chăm sóc da"
+    },
+    {
+        "tenSanPham": "Kem chống nắng",
+        "gia": 250000,
+        "soLuongTon": 50,
+        "danhMuc": "Dưỡng da"
+    },
+    {
+        "tenSanPham": "Sữa rửa mặt",
+        "gia": 180000,
+        "soLuongTon": 40,
+        "danhMuc": "Làm sạch da"
+    }
+]
